@@ -3,6 +3,8 @@
 PostgresQL 
 Mybatis
 Tomcat8.0
-Spring
+Spring4.1
+SpringBoot(X)
+jUnit
 
 AdminLTE2
